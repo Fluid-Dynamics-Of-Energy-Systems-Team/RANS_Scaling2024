@@ -1,0 +1,12 @@
+Mb,Mtau,Retau,Flow type,Visc law,ViscExp,Extsource,Identifier,Author,Symbol,Color,Size
+0.7,0.0378686349,437.4137,HighMachChan,PowerLaw,0.75,0,0,Trettel & Larsson (2016),P,tab:blue,1.3
+0.7,0.0360222249,652.061,HighMachChan,PowerLaw,0.75,0,1,Trettel & Larsson (2016),P,tab:blue,1.3
+1.7,0.0837250686,321.606813,HighMachChan,PowerLaw,0.75,0,2,Trettel & Larsson (2016),P,tab:blue,1.3
+1.7,0.0773601727,663.05244,HighMachChan,PowerLaw,0.75,0,3,Trettel & Larsson (2016),P,tab:blue,1.3
+1.7,0.0730545,971.686,HighMachChan,PowerLaw,0.75,0,4,Trettel & Larsson (2016),P,tab:blue,1.3
+3,0.108984,649.8898,HighMachChan,PowerLaw,0.75,0,5,Trettel & Larsson (2016),P,tab:blue,1.3
+3,0.102289724,1232.47993,HighMachChan,PowerLaw,0.75,0,6,Trettel & Larsson (2016),P,tab:blue,1.3
+3,0.096855,1876.12424,HighMachChan,PowerLaw,0.75,0,7,Trettel & Larsson (2016),P,tab:blue,1.3
+4,0.11805,1017.464,HighMachChan,PowerLaw,0.75,0,8,Trettel & Larsson (2016),P,tab:blue,1.3
+0,0,950,LowMachChan,PowerLaw,0.7,75,9,Pecnik & Patel (2017),*,tab:red,1.5
+0,0,395,LowMachChan,PowerLaw,0.7,17.55,10,Patel et al. (2016),*,tab:red,1.5
